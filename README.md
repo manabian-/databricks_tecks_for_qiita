@@ -1,1 +1,5 @@
 # databricks_tecks_for_qiita
+
+
+
+qiitaに投稿する記事にて紹介するDatabricksのテクニックに関するドキュメントを配置します。
