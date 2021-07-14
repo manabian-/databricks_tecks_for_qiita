@@ -1,0 +1,2 @@
+# DatabricksのPythonにてDBFS上に変数の値をファイルとして保存する方法
+
